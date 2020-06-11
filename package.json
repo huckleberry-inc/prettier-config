@@ -1,0 +1,9 @@
+{
+  "name": "@huckleberry-inc/prettier-config",
+  "version": "0.0.1",
+  "main": "index.json",
+  "description": "Company's Prettier config",
+  "repository": "https://github.com/huckleberry-inc/prettier-config.git",
+  "license": "MIT",
+  "author": "Huckleberry, inc. <dev@huckleberry-inc.com>"
+}
